@@ -1,4 +1,4 @@
-# Run this main to Compile whole application
+# Run this main to Compile & Run whole application
 
 from webapp import app
 

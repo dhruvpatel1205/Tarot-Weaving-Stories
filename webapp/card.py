@@ -460,12 +460,6 @@ def get_deck():
          "sequence": 68,
          "cardtype": "minor"},
 
-        {"name": "Six of Coins", "url": "six_of_coins", "image": "images/pe06.jpeg",
-         "desc": "Expansion. Abundance of resources and possible ways to advance. A positive outlook, success. A good balance between stability and movement.",
-         "rdesc": "(similar to upright) Expansion. Abundance of resources and possible ways to advance. A positive outlook, success. A good balance between stability and movement.",
-         "sequence": 69,
-         "cardtype": "minor"},
-
         {"name": "Seven of Coins", "url": "seven_of_coins", "image": "images/pe07.jpeg",
          "desc": "Acceptance. Something new is well received. Help and protection. Integrating into a system without losing one’s individuality.",
          "rdesc": "Lack of independence, need to rely on help and acceptance from others.",
